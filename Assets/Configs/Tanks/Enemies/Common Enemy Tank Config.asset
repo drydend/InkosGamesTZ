@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4edb038d2f93bce4db1de84b588d1056, type: 3}
+  m_Name: Common Enemy Tank Config
+  m_EditorClassIdentifier: 
+  <MaxHeals>k__BackingField: 1
+  <MovementSpeed>k__BackingField: 2
+  <TankSize>k__BackingField: 1
+  <ReloadingTime>k__BackingField: 3
+  <BulletPrefab>k__BackingField: {fileID: 789884418856323170, guid: 59c915416a2af00429ed1f98a709f62d, type: 3}
+  <TankPrefab>k__BackingField: {fileID: 1097905148563812059, guid: 4b77400d3f3e4794e9ab762e0c580426, type: 3}
+  <ScoreForKill>k__BackingField: 100

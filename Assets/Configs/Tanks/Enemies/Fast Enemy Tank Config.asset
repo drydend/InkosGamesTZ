@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4edb038d2f93bce4db1de84b588d1056, type: 3}
+  m_Name: Fast Enemy Tank Config
+  m_EditorClassIdentifier: 
+  <MaxHeals>k__BackingField: 1
+  <MovementSpeed>k__BackingField: 3
+  <TankSize>k__BackingField: 1
+  <ReloadingTime>k__BackingField: 3
+  <BulletPrefab>k__BackingField: {fileID: 789884418856323170, guid: 31a18dcc9472da643b247c38c3725018, type: 3}
+  <TankPrefab>k__BackingField: {fileID: 4416021936660580233, guid: fe61361306dfd6d47a710086850fcf39, type: 3}
+  <ScoreForKill>k__BackingField: 200

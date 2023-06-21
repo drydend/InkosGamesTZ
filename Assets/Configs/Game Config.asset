@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93d63f08712dd594bb6235d322dea5a8, type: 3}
+  m_Name: Game Config
+  m_EditorClassIdentifier: 
+  <GameFieldWidth>k__BackingField: 15
+  <GameFieldHeight>k__BackingField: 15
+  <PlayerHeals>k__BackingField: 3
+  <PlayerRespawnTime>k__BackingField: 3
+  <AllEnemiesNumber>k__BackingField: 9
+  <MaxEnemiesInGame>k__BackingField: 3
+  <EnemySpawnTime>k__BackingField: 4
+  <WinSound>k__BackingField: {fileID: 8300000, guid: 9bb27861a553b314aa954598a942c782, type: 3}
+  <LoseSound>k__BackingField: {fileID: 8300000, guid: c82d502e296073045b2fe17e14fd578c, type: 3}

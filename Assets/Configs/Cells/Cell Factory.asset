@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e21a198317e5e84a94e0af9d0f71e09, type: 3}
+  m_Name: Cell Factory
+  m_EditorClassIdentifier: 
+  _borderPrefab: {fileID: -8422292756834375877, guid: b591942abce1f1347ba2740623ba1df3, type: 3}
+  _views:
+  - <Type>k__BackingField: 1
+    <View>k__BackingField: {fileID: -3767634052976168064, guid: 2cb8b3c7058046f43bebf27d5f403b1e, type: 3}
+  - <Type>k__BackingField: 2
+    <View>k__BackingField: {fileID: -378434818735812735, guid: 2195014e9b379cc41bd3e10adea79291, type: 3}
+  - <Type>k__BackingField: 3
+    <View>k__BackingField: {fileID: 9086876262477337464, guid: 6cec65e6e4891ec44860a71fb1abf22b, type: 3}

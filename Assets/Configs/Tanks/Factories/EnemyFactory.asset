@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 817d90a20baeb35429c7e17f07244007, type: 3}
+  m_Name: EnemyFactory
+  m_EditorClassIdentifier: 
+  _enemyTanks:
+  - {fileID: 11400000, guid: 821580099d7eb4f4ea0189917eae7644, type: 2}
+  - {fileID: 11400000, guid: 6099b58f099041c49a280a4ec33aada5, type: 2}
+  - {fileID: 11400000, guid: e809f3327a56b724782b82859c49b179, type: 2}

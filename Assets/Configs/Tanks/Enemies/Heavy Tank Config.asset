@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4edb038d2f93bce4db1de84b588d1056, type: 3}
+  m_Name: Heavy Tank Config
+  m_EditorClassIdentifier: 
+  <MaxHeals>k__BackingField: 2
+  <MovementSpeed>k__BackingField: 1.5
+  <TankSize>k__BackingField: 1
+  <ReloadingTime>k__BackingField: 4
+  <BulletPrefab>k__BackingField: {fileID: 789884418856323170, guid: 59c915416a2af00429ed1f98a709f62d, type: 3}
+  <TankPrefab>k__BackingField: {fileID: 4375351697777269442, guid: 8c9d4066368c04648bce3bc9634f237f, type: 3}
+  <ScoreForKill>k__BackingField: 300
